@@ -1,5 +1,5 @@
 # Air_Quality_Monitoring_Dashboard
-![dashboard](Air quality Power Bi dashboard.png)
+![Air Quality Dashboard](Air quality Power Bi dashboard.png)
 ## Project Overview
 This is a personal Power BI project for analyzing air quality data through interactive visualizations.
 
